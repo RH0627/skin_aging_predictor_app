@@ -5,7 +5,8 @@ When running the app normally, you will see this GUI
 
 ![image](https://github.com/RH0627/skin_aging_predictor_app/blob/master/photo.jpg)
 
-
+You can download the files by:
+git lfs clone https://github.com/RH0627/skin_aging_predictor_app.git
 
 
 
