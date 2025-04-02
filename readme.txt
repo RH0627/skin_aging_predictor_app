@@ -1,4 +1,4 @@
-Please download all files to your computer and unzip the z01 file
+Please download all files to your computer and unzip the predictor.zip file
 
 
 When running the app normally, you will see this GUI
