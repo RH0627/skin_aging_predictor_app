@@ -3,11 +3,8 @@ Please download all files to your computer and unzip the predictor.zip file
 
 When running the app normally, you will see this GUI
 
-![image text](https://github.com/RH0627/skin_aging_predictor_app/blob/master/photo.jpg)
+![image text](https://github.com/RH0627/skin_aging_predictor_app/blob/master/gui.png)
 
-<div align="center">
-  <img src="https://github.com/RH0627/skin_aging_predictor_app/blob/master/photo.jpg">
-</div>
 
 You can download the files by:
 git lfs clone https://github.com/RH0627/skin_aging_predictor_app.git
