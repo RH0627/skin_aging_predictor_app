@@ -3,8 +3,7 @@ Please download all files to your computer and unzip the z01 file
 
 When running the app normally, you will see this GUI
 
-
-![image](https://github.com/RH0627/skin_aging_predictor_app/raw/master/photo.jpg)
+![image](https://github.com/RH0627/skin_aging_predictor_app/blob/master/photo.jpg)
 
 
 
