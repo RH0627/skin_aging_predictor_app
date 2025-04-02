@@ -1,5 +1,5 @@
 # Skin Aging Predictor Application
-
+![image](https://github.com/RH0627/skin_aging_predictor_app/blob/master/gui.png)
 ## Installation Guide
 
 ### Method 1: Using Git Clone
