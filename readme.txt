@@ -9,7 +9,7 @@ When running the app normally, you will see this GUI
 You can download the files by:
 git lfs clone https://github.com/RH0627/skin_aging_predictor_app.git
 
-
+When you batch input a csv file, make sure your input column header is “Sequence”.
 
 version https://git-lfs.github.com/spec/v1
 oid sha256:f623ee262d17959fbd358afd336d0db2c34c9d3dea9eeeb47c260df61bfa5c68
